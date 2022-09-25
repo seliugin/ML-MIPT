@@ -1,4 +1,4 @@
-### Task 2 for the course Mathemathical Foundations of Machine Learning in MIPT, 2022
+### Second semester of the course Mathemathical Foundations of Machine Learning in MIPT, 2022
 
 1. CNN analysys
 2. LSTM model
